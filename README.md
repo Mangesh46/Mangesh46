@@ -6,7 +6,8 @@ Software Development • Systems • IoT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mangesh-sarde">LinkedIn</a> •
-  <a href="mailto:mangeshsarde6@gmail.com">Email</a>
+  <a href="mailto:mangeshsarde6@gmail.com">Email</a> •
+  <a href="https://mangesh46.github.io/profileweb/">Profile Website</a>
 </p>
 
 ---
@@ -91,8 +92,9 @@ My experience includes:
 ## 📫 Contact
 
 - 📧 Email: **mangeshsarde6@gmail.com**
+- 🌐 Profile Website: **https://mangesh46.github.io/profileweb/**
 - 📍 Location: **Nagpur, Maharashtra, India**
-- 💼 LinkedIn: [linkedin.com/in/mangesh-sarde](https://linkedin.com/in/mangesh-sarde)
+- 💼 LinkedIn: https://linkedin.com/in/mangesh-sarde
 
 ---
 
