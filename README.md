@@ -5,7 +5,7 @@ Software Development • Systems • IoT
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mangesh-sarde">LinkedIn</a> •
+  <a href="www.linkedin.com/in/mangesh-sarde-0a348a236">LinkedIn</a> •
   <a href="mailto:mangeshsarde6@gmail.com">Email</a> •
   <a href="https://mangesh46.github.io/profileweb/">Profile Website</a>
 </p>
