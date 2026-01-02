@@ -131,7 +131,7 @@ My experience includes:
 - 📧 Email: **mangeshsarde6@gmail.com**
 - 🌐 Profile Website: **https://mangesh46.github.io/profileweb/**
 - 📍 Location: **Nagpur, Maharashtra, India**
-- 💼 LinkedIn: [https://linkedin.com/in/mangesh-sarde](https://linkedin.com/in/mangesh-sarde)
+- 💼 LinkedIn: [https://linkedin.com/in/mangesh-sarde](www.linkedin.com/in/mangesh-sarde-0a348a236)
 
 ---
 
