@@ -1,67 +1,82 @@
 <h1 align="center">Hi 👋, I'm Mangesh Vivek Sarde</h1>
-<h3 align="center">Electronics & Communication Engineer | Full-Stack | Systems & IoT</h3>
+<h3 align="center">
+Electronics & Communication Engineering Undergraduate<br/>
+Software Development • Systems • IoT
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mangesh-sarde">LinkedIn</a> •
-  <a href="mailto:sardemangesh3@gmail.com">Email</a> •
-  <a href="#">Portfolio</a>
+  <a href="mailto:mangeshsarde6@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-I am an **Electronics & Communication Engineering student (CGPA 8.85)** passionate about building **real-world systems** that combine  
-**software, hardware, networking, and intelligence**.
 
-I work across:
-- Full-stack development (MERN, Flask)
-- System-level engineering (IoT, WiFi CSI, 5G)
-- Rust, C++, Python for performance & reliability
+I am an **Electronics & Communication Engineering undergraduate (CGPA: 8.85)** with strong foundations in  
+**software development, data structures, and system-level problem solving**.
 
-Currently building **MoodLove**, a deep system integrating **5G core, IoT, AI, and Rust-based infrastructure**.
+I focus on building **reliable, real-world systems** that bridge  
+**software, hardware, networking, and data**.
+
+My experience includes:
+- Full-stack application development using **MERN Stack & Python**
+- **IoT and hardware–software integration**
+- Designing **real-time dashboards and analytics systems**
+- Working in **HealthTech and system-oriented projects**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-`C (DSA)` • `Python` • `JavaScript` • `TypeScript` • `Rust` • `C++`
+### Programming & Core
+`C (DSA)` • `Java (OOP)` • `Python` • `JavaScript`
 
 ### Web & Backend
 `React` • `Node.js` • `Express` • `MongoDB` • `Flask` • `REST APIs`
 
 ### Systems & Tools
-`Linux` • `Git/GitHub` • `Docker` • `ESP32` • `WiFi CSI` • `Free5GC`
+`Linux / CLI` • `Git & GitHub` • `IoT Sensors` • `ESP32`
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 CSISense (C++)
-> Wi-Fi CSI based human presence & intrusion detection (camera-free)
-- Signal processing + ML
-- Grid-based localization
-- Research & patent-oriented system
-
-📌 Repo: `CSISense`
-
----
-
-### 🔹 AirShoes / Smart Shoe System
-> IoT-based fall & health monitoring wearable
-- ESP32 + MAX30100 + MPU sensors
-- Flask backend with real-time dashboard
-- 2nd Prize – VNIT Nagpur (5G Lab)
-
-📌 Repo: `Airshoes`
-
----
+## 🚀 Key Projects
 
 ### 🔹 Digital Healthcare Management System (DHIMS)
-> Full-stack MERN healthcare platform
-- National Finalist – IIT Indore (Fluxus)
-- Patient records, appointments, admin workflows
-- Secure REST APIs
+**MERN Stack | 2025**
+- Full-stack healthcare platform for **patient records, appointments, and admin dashboards**
+- **National Finalist – IIT Indore (Fluxus)**
+- Presented at **IIT BHU Health-Tech Conference**
+
+🔒 *Repository is private. Available for demo on request.*
+
+---
+
+### 🔹 Smart Shoe – IoT Health Monitoring System
+**ESP32 • Flask • React | 2025**
+- Wearable system for **gait analysis, heart-rate monitoring, and fall detection**
+- Real-time data visualization through dashboards
+- 🥈 **2nd Prize – VNIT Nagpur Summer School (5G Lab)**
+
+🔒 *Repository is private. Available for demo on request.*
+
+---
+
+### 🔹 Wi-Fi CSI – Human Presence Detection
+**Python • Machine Learning | 2025**
+- Human presence detection using **Wi-Fi Channel State Information**
+- Applied signal features with ML models for inference
+
+🔒 *Repository is private. Available for demo on request.*
+
+---
+
+### 🔹 Crop Health Dashboard
+**MERN Stack • Python | 2024**
+- Real-time crop analytics and visualization dashboard
+- 🥉 **3rd Rank – National Level Competition**
+
+🔒 *Repository is private. Available for demo on request.*
 
 ---
 
@@ -69,17 +84,16 @@ Currently building **MoodLove**, a deep system integrating **5G core, IoT, AI, a
 - 🥈 **2nd Prize** – VNIT Nagpur Summer School (5G Lab)
 - 🥉 **3rd Rank** – National Competition (YCCE Nagpur)
 - 🏁 **National Finalist** – IIT Indore (Fluxus)
-- Participated in multiple national hackathons & CTFs
+- Active participant in national-level hackathons and technical events
 
 ---
 
+## 📫 Contact
 
-
-## 📫 Reach Me
-- 📧 Email: **sardemangesh3@gmail.com**
-- 🌍 Location: Nagpur, India
-- 💼 LinkedIn: https://linkedin.com/in/mangesh-sarde
+- 📧 Email: **mangeshsarde6@gmail.com**
+- 📍 Location: **Nagpur, Maharashtra, India**
+- 💼 LinkedIn: [linkedin.com/in/mangesh-sarde](https://linkedin.com/in/mangesh-sarde)
 
 ---
 
-> ⚡ *I build systems, not just projects.*
+> ⚡ *I focus on building dependable systems with real-world impact, not just academic projects.*
