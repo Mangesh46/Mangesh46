@@ -14,7 +14,7 @@ Software Development • Systems • IoT
 
 ## 🧑‍💻 About Me
 
-I am an **Electronics & Communication Engineering undergraduate (CGPA: 8.85)** with strong foundations in  
+I am an **Electronics & Communication Engineering undergraduate ** with strong foundations in  
 **software development, data structures, and system-level problem solving**.
 
 I focus on building **reliable, real-world systems** that bridge  
