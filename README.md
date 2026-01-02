@@ -96,4 +96,4 @@ My experience includes:
 
 ---
 
-> ⚡ *I focus on building dependable systems with real-world impact, not just academic projects.*
+> ⚡ *I focus on building dependable systems with real-world impact.*
