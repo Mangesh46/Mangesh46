@@ -25,7 +25,7 @@ My experience includes:
 - **IoT and hardware–software integration**
 - Designing **real-time dashboards and analytics systems**
 - Working in **HealthTech and system-oriented projects**
-- contribution till date :102
+- contribution till date :104+
 
 ---
 
