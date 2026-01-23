@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mangesh Vivek Sarde</h1>
+<h1 align="center">Hi  I'm Mangesh Vivek Sarde</h1>
 <h3 align="center">
 Electronics & Communication Engineering Undergraduate<br/>
 Embedded Systems • Wireless Software • Systems Engineering
