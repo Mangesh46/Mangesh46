@@ -1,134 +1,142 @@
-<h1 align="center">Hi  I'm Mangesh Vivek Sarde</h1>
+<h1 align="center">Hi, I'm Mangesh Vivek Sarde</h1>
 <h3 align="center">
-Electronics & Communication Engineering Undergraduate<br/>
-Embedded Systems • Wireless Software • Systems Engineering
+Electronics & Communication Engineering Undergraduate · RCOEM Nagpur<br/>
+Full-Stack Development • Embedded Firmware • Wireless & RF Systems
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mangesh-sarde-0a348a236">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mangesh-sarde">LinkedIn</a> •
   <a href="mailto:mangeshsarde6@gmail.com">Email</a> •
-  <a href="https://mangesh46.github.io/profileweb/">Profile Website</a>
+  <a href="https://profile-henna-delta.vercel.app">Portfolio</a> •
+  <a href="https://github.com/Mangesh46">GitHub</a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am an **Electronics & Communication Engineering undergraduate** focused on  
-**embedded systems, firmware development, and wireless software**.
+Pre-final year **ECE undergraduate** building at the intersection of  
+**embedded firmware, wireless systems, and full-stack development**.
 
-I build **performance-critical, real-world systems** that integrate  
-**hardware, networking, and software**, with emphasis on **reliability, latency,
-and resource constraints**.
+I ship real-world systems end-to-end — from **bare-metal C firmware on ESP-IDF**  
+to **Wi-Fi CSI signal pipelines, React dashboards, and production REST APIs** —  
+with focus on **reliability, low latency, and measurable outcomes**.
 
-My experience includes:
-- **Embedded systems & hardware–software integration (ESP32)**
-- **Wireless systems and signal processing (Wi-Fi CSI, 5G concepts)**
-- **Real-time data pipelines and telemetry systems**
-- System-oriented backend services supporting firmware and devices
-- Consistent hands-on development with **100+ commits across projects**
+- 📡 **Wireless & RF:** Wi-Fi CSI sensing, 5G core concepts (Free5GC), RF-based passive detection, network slicing  
+- 🔨 **Embedded Firmware:** ESP32, ESP-IDF, BLE GATT, ESP-NOW, FreeRTOS, bare-metal C  
+- 🌐 **Full-Stack:** MERN stack, REST APIs, JWT auth, real-time SSE streaming, React dashboards  
+- 🏆 Recognized at **IIT BHU · IIT Indore · VNIT Nagpur** — 3 awards, 12 competitions  
+- 💼 6-month internship building production IoT firmware + backend at Sarvaksh Communications
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Core
-`C (Embedded / DSA)` • `C++` • `Rust` • `Python` • `Java` • `JavaScript`
+### Wireless & Signal Processing
+`Wi-Fi CSI` • `RF Passive Sensing` • `5G Network Slicing` • `Free5GC` •  
+`Signal Processing` • `PCA` • `Amplitude/Phase Extraction` • `MQTT`
 
-### Embedded, Wireless & Systems
-`ESP32` • `IoT Sensors` • `Wi-Fi CSI` • `5G Core Concepts (Free5GC)` •
-`Low-latency Systems` • `Real-time Data Pipelines`
+### Embedded & Firmware
+`C (ESP-IDF / Bare-metal)` • `ESP32` • `BLE GATT` • `ESP-NOW` •  
+`FreeRTOS` • `Concurrency & Semaphores` • `Low-latency Firmware`
 
-### Software & Tools
-`Linux / CLI` • `Git & GitHub` • `Flask` • `REST APIs` •
-`Machine Learning` • `ONNX Runtime`
+### Full-Stack & APIs
+`JavaScript (ES6+)` • `React.js` • `Node.js` • `Express.js` • `Flask` •  
+`MongoDB` • `REST APIs` • `JWT Authentication` • `SSE` • `HTML5` • `CSS3`
+
+### Languages
+`C` • `Python` • `JavaScript` • `C++` • `SQL` • `Dart (Flutter)` • `Java`
+
+### DevOps & Tools
+`Git` • `GitHub` • `Docker` • `Linux` • `CI/CD` • `Bash` • `Agile SDLC`
+
+### Exploring
+`Rust` (systems programming & neural codecs — active learning)
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔹 Smart Shoe – Embedded IoT Health Monitoring System (Airshoes)
-**ESP32 • Flask • React | 2025**
-- Designed an **embedded wearable system** for gait analysis, heart-rate monitoring,
-  and fall detection
-- Implemented **real-time data streaming and alerts** under **power and latency constraints**
-- 🥈 **2nd Prize – VNIT Nagpur Summer School (5G Lab)**
+### 📡 CSISense v1.0 — Wi-Fi CSI Passive Intrusion Detection
+**C · ESP-IDF · ESP32 · Signal Processing · PCA · Python | 2025**
+- Wrote **bare-metal C firmware on ESP-IDF** for dual ESP32 nodes capturing Wi-Fi Channel State Information
+- Designed a **7×7 RF sensing grid** (49 monitoring points) with Tx–Rx node pairs
+- CSI amplitude/phase data piped to Python ML pipeline (PCA + supervised classification)
+- Achieved **92%+ intrusion detection accuracy** with no cameras — pure RF passive sensing
 
-🔒 *Repository is private. Architecture and demo available on request.*
-
----
-
-### 🔹 Wi-Fi CSI – Human Presence Detection (CSISense)
-**Python • Signal Processing • Machine Learning | 2025**
-- Built a **wireless sensing system** using **Wi-Fi Channel State Information**
-- Designed feature extraction and ML-based inference across a **7×7 monitoring grid**
-- Focused on **low-latency detection** using real-world CSI data
-
-🔒 *Repository is private. Methodology available on request.*
+🔒 *Private repository — methodology at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)*
 
 ---
 
-### 🔹 ML Image Compression (mlcompress)
-**Rust • ONNX Runtime | 2026**
-- Implemented an **ML-based image compression pipeline**
-- Used **neural latent encoding with ZSTD entropy coding**
-- Emphasis on **performance, efficiency, and high-fidelity reconstruction**
+### 🔹 AirShoes v1.0 — Embedded Wearable with Real-Time Dashboard
+**C · ESP32 · React · Flask · MongoDB · TensorFlow · CNN-BiLSTM | 2024–2025**
+- **ESP32 bare-metal firmware** for IMU + optical sensor fusion (gait, SpO₂, heart-rate, collision)
+- CNN-BiLSTM model for real-time activity classification under **power and latency constraints**
+- 3-tier intent framework (Alert · Health · Telemetry) with real-time React dashboard
+- 🥈 **2nd Prize — VNIT Nagpur 5G Lab Summer School 2025 (50+ participants)**
 
-🔒 *Repository is private. Demo available on request.*
-
----
-
-### 🔹 Digital Healthcare Management System (DHIMS)
-**MERN Stack | 2025**
-- Designed backend APIs and data models for **secure patient records and scheduling**
-- Ensured **reliability under concurrent access** through validation and testing
-- 🏁 **National Finalist – IIT Indore (Fluxus)**  
-- Presented at **IIT BHU Health-Tech Conference**
-
-🔒 *Repository is private.*
+🔒 *Private repository — architecture and demo at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)*
 
 ---
 
-### 🔹 Crop Health Dashboard
-**MERN Stack • Python | 2024**
-- Built a **real-time analytics dashboard** for crop health monitoring
-- 🥉 **3rd Rank – National Level Competition**
+### 🔹 GlucoVision v3.1 — Production Biosensor IoT Platform
+**C · ESP-IDF · ESP-NOW · BLE GATT · Flask · Flutter | 2025–2026**
+- Bare-metal **ESP32-C3 firmware** with ESP-NOW mesh and BLE GATT protocol bridging
+- Resolved 4 firmware-level bugs including race condition fixed via **concurrency semaphore**
+- 12-stage async pipeline achieving **<5% packet loss** under high-concurrency BLE traffic
+- Latency reduced **17s → under 2s**; Flask REST API + Flutter Android app for live visualization
 
-🔒 *Repository is private.*
-
----
-
-### 🔹 Hinglish AI Translator
-**JavaScript | 2025**
-- NLP-based translator for Hinglish ↔ English
-- Focused on accurate transliteration and translation
-
-🔗 *Public repository available.*
+*Built during internship at Sarvaksh Communications Technologies Pvt. Ltd.*
 
 ---
 
-### 🔹 Personal Portfolio Website
-**JavaScript | 2025**
-- Personal website showcasing projects, skills, and achievements
+### 🔹 DHIMS v2.0 — Digital Healthcare Management System
+**Node.js · Express.js · MongoDB · React · JWT | 2024–2025**
+- Secure full-stack **MERN platform** with multi-role JWT access control for 3 user types
+- Extensible RESTful API modules and React frontend with dynamic state management
+- 🏁 **National Finalist — IIT Indore Fluxus 2025**
+- 🎤 **International Conference Presenter — IIT BHU Spirit 2025**
 
-🔗 *Public repository available.*
+🔒 *Private repository — architecture at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)*
+
+---
+
+### 🔹 Crop Health Dashboard — AI Agricultural Monitoring
+**React · Node.js · Chart.js · Python · ML · MongoDB | 2025**
+- Full-stack dashboard with **Chart.js visualizations** and ML-driven crop health scoring REST API
+- 🥉 **3rd Rank Nationally — Pratikruti 2024, YCCE Nagpur**
+
+🔒 *Private repository — demo at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)*
 
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Prize** – VNIT Nagpur Summer School (5G Lab)
-- 🥉 **3rd Rank** – National Level Technical Competition (YCCE Nagpur)
-- 🏁 **National Finalist** – IIT Indore (Fluxus)
-- Active participant in **national-level hackathons and technical events**
+
+| Award | Event | Year |
+|---|---|---|
+| 🥈 2nd Prize | VNIT Nagpur 5G Lab Summer School | 2025 |
+| 🏁 National Finalist | IIT Indore Fluxus 2025 | 2025 |
+| 🎤 Conference Presenter | IIT BHU Spirit 2025 (Health-Tech & AI) | 2025 |
+| 🥉 3rd Rank National | Pratikruti 2024, YCCE Nagpur | 2025 |
+| ✅ Participant | BITS Pilani · HP · EY · IIT Delhi · ISEA · PRAGYAN | 2024–26 |
+
+---
+
+## 📜 Certifications
+
+- 📘 **5G and 6G Wireless Technologies** — NIT Warangal
+- 📘 **Applied Linear Algebra for Signal Processing, Data Analytics & ML** — NPTEL (Jul–Oct 2025)
+- 📘 **AI and Machine Learning on Google Cloud** — GCP
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **mangeshsarde6@gmail.com**
-- 🌐 Website: **https://mangesh46.github.io/profileweb/**
-- 📍 Location: **Nagpur, Maharashtra, India**
-- 💼 LinkedIn: **https://www.linkedin.com/in/mangesh-sarde-0a348a236**
+
+- 📧 **mangeshsarde6@gmail.com**
+- 🌐 **[profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)**
+- 📍 Nagpur, Maharashtra, India
+- 💼 **[linkedin.com/in/mangesh-sarde](https://linkedin.com/in/mangesh-sarde)**
 
 ---
 
-> ⚡ *I focus on building dependable, performance-critical systems with real-world impact.*
+> *From RF sensing grids to React dashboards — building systems that work in the real world.*
