@@ -97,7 +97,8 @@ with focus on **reliability, low latency, and measurable outcomes**.
 - 🏁 **National Finalist — IIT Indore Fluxus 2025**
 - 🎤 **International Conference Presenter — IIT BHU Spirit 2025**
 
-🔒 *Private repository — architecture at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)*
+*public repository — architecture at [profile-henna-delta.vercel.app](https://profile-henna-delta.vercel.app)
+                   - deploy at [https://dhims-hgbe.vercel.app/](https://dhims-hgbe.vercel.app/)*
 
 ---
 
