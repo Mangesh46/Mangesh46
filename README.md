@@ -125,7 +125,7 @@ Built during internship at Sarvaksh Communications Technologies Pvt. Ltd. *(prop
 **React · Flask · Python · Scikit-learn · Chart.js · REST APIs | 2025**
 
 - Computes **NDVI, EVI, and NDWI** vegetation indices from standard RGB field photos
-- ML health classifier at **92% accuracy**, <5 s processing — deployable on a regular server without drones or multispectral cameras
+- ML health classifier  — deployable on a regular server without drones or multispectral cameras
 - Full-stack dashboard with interactive Chart.js visualizations and smart irrigation scheduling recommendations
 - 🥉 **3rd Rank Nationally — Pratikruti 2024, YCCE Nagpur**
 
