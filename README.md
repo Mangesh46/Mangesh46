@@ -95,16 +95,15 @@ Built for the Crackathon competition at IIT Bombay (Team sardemv).
 
 ---
 
-### 🔬 GlucoVision v3.1 — Non-Invasive Glucose Biosensor Platform
+### 🔬 IoT Biosensor Platform — Embedded Data Acquisition System
 **C · ESP-IDF · ESP-NOW · BLE GATT · Python Flask · Flutter · Raspberry Pi | 2025–2026**
 
-Built during internship at Sarvaksh Communications Technologies Pvt. Ltd.
+Built during internship at Sarvaksh Communications Technologies Pvt. Ltd. *(proprietary — details under NDA)*
 
-- Bare-metal **ESP32-C3 firmware** with ESP-NOW mesh + BLE GATT protocol bridging across 3 embedded devices
-- RGB LED (470/525/625 nm) sequential illumination + dual photodiode ADC + 12MP Pi Camera for colorimetric sweat glucose detection (GOx/HRP/TMB chemistry) — target LOD 0.01 mM
-- Designed 12-stage async capture pipeline; resolved 4 firmware bugs (race condition, thread blocking, packet mismatch, duplicate capture)
-- Achieved **<5% packet loss** under high-concurrency BLE traffic; **cut latency from 17 s → under 2 s**
-- Flask REST API + SSE real-time dashboard; Flutter Android app for live plantar-pressure heatmap visualization
+- Bare-metal **ESP32-C3 firmware** with ESP-NOW + BLE GATT protocol bridging across 3 embedded devices for synchronized multi-channel sensor data acquisition
+- Designed a **12-stage async data capture pipeline**; resolved 4 firmware-level bugs (race condition, thread blocking, packet mismatch, duplicate capture)
+- Achieved **<5% packet loss** under high-concurrency BLE GATT traffic; **reduced per-capture latency from 17 s → under 2 s**
+- Flask REST API + Server-Sent Events for real-time streaming; Flutter Android app for live multi-channel sensor heatmap visualization
 
 ---
 
